@@ -28,7 +28,7 @@ logging.getLogger("telethon").setLevel(logging.WARNING)
 
 MONGODB_CONNECTION_STRING = "mongodb+srv://ggn:ggn@ggn.upuljx5.mongodb.net/?retryWrites=true&w=majority&appName=ggn"
 OWNER_ID = 1118716436 # edit this
-LOG_GROUP = -10012345 # edit this
+LOG_GROUP = -1002507533596 # edit this
 
 # MongoDB database name and collection name
 DB_NAME = "authors"
